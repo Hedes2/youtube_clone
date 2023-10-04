@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding-top :100px ;
+    padding-left: 100px;
+    background-color: blacks;
+    font-family: "Roboto";
+}
+
+.thumbnail-div
+.channel-discription{
+    cursor: pointer;
+
+}
+
+p{
+    text-decoration: none;
+    color: black;
+}
